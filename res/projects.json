@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Stereotypical Gibberish Language Relations",
+		"status": "Personal Project",
+		"date": "July 2019",
+		"img": "images/gibberish.png",
+		"description": "It's a common idiom in English that something 'sounds like / looks like Greek.' Certainly, this cannot be an idiom in Greek. In fact, in Greek, there is an analogous idiom: 'Αυτά μου φαίνονται κινέζικα,' or 'This strikes me as Chinese.' Many languages have similar idioms. This project represents them visually as a directed graph and provides historical context and evidence for each connection.",
+		"link": "http://www.parthsarin.com/gibberish/",
+		"imgCaption": "Stereotypical <span class='text-warning'>Gibberish</span>"
+	},
+	{
+		"title": "On the geometry of Tensor Network States of $2 \\times N$ grids",
+		"status": "Published with <a href=\"https://www.journals.elsevier.com/linear-algebra-and-its-applications\">Linear Algebra and its Applications</a>",
+		"date": "2019",
+		"abstract": "We discuss the geometry of a class of tensor network states, called projected entangled pair states in the Physics literature, for certain types of graphs. We provide initial results towards a question of Verstraete and Rizzi regarding the tensor network state of an $M \\times N$ grid; we partially answer the question for a $2 \\times N$ grid. We also study the $2 \\times N$ grid sitting on a torus and provide initial results towards understanding the Zariski closure of the set of tensor network states associated to this graph. Finally, we give explicit tensors that provide optimal bounds on the border rank of a generic tensor in the tensor network state of the $2 \\times N$ grid.",
+		"link": "https://doi.org/10.1016/j.laa.2019.04.002"
+	},
+	{
+		"title": "A Time-Series Forecast of Crime in Austin",
+		"status": "Treehacks Project",
+		"date": "February 2019",
+		"img": "images/treehacks.png",
+		"imgCaption": "Treehacks 2019",
+		"description": "We built a densely connected neural network to analyze historical data of crime in Austin, TX and predict the geographical distribution of crime in the future. Our algorithm had (roughly) an 80% success rate. We plan to continue building and improving the design. <br> <ul> <li> <span class='text-primary'>Link: </span> Pending </li> </ul>"
+	},
+	{
+		"title": "Cup length as a bound on topological complexity",
+		"date": "Summer 2017",
+		"abstract": "Polynomial solving algorithms are essential to applied mathematics and the sciences. As such, reduction of their complexity has become an incredibly important field of topological research. We present a topological approach to constructing a lower bound for the complexity of a polynomial-solving algorithm, and give a concrete algorithm to do this in the case that $\\mathrm{deg}(f)=2,3,4$.",
+		"link": "https://arxiv.org/abs/1710.06502"
+	}
+]
