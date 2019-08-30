@@ -32,10 +32,10 @@ class EducationCard extends React.Component {
 		const info = (
 			<div>
 				<h3>{ inst.name }</h3>
-				<span><span className="text-info">{ inst.major }</span> | { inst.dates }</span>
+				<span><span className="text-theme-dark">{ inst.major }</span> | { inst.dates }</span>
 				<br /><br />
-				{ inst.GPA ? <span><span className="text-info">GPA:</span> {inst.GPA}<br /></span> : null }
-				{ inst.coursework ? <span><span className="text-info">Relevant coursework:</span> {inst.coursework.join(', ')} <br /></span> : null }
+				{ inst.GPA ? <span><span className="text-theme-dark">GPA:</span> {inst.GPA}<br /></span> : null }
+				{ inst.coursework ? <span><span className="text-theme-dark">Relevant coursework:</span> {inst.coursework.join(', ')} <br /></span> : null }
 				{ inst.description ? <span dangerouslySetInnerHTML={{ __html: inst.description }}></span> : null }
 			</div>
 		);

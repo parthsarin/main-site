@@ -5,7 +5,8 @@
 		"location": "Chicago, IL",
 		"dates": "June 2019 to September 2019",
 		"tasks": [
-			"Conducted legal research and compose memorandum about incredibly exigent issues involving, e.g., the constitutionality of cell-site location information and investigative alerts, etc.",
+			"Conducted legal research and composed memorandum about incredibly exigent issues involving, e.g., the constitutionality of cell-site location information and investigative alerts, etc.",
+			"Interviewed witnesses and prepared them for trial.",
 			"Conducted research and performed stand-by duties in People v. Jovan Battle, involving the murder of an off-duty police officer."
 		],
 		"img": "images/ccsa-seal.png"
@@ -36,7 +37,7 @@
 	},
 	{
 		"title": "Undergraduate Researcher",
-		"company": "Texas A&amp;M University",
+		"company": "Texas A&M University",
 		"location": "College Station, TX",
 		"dates": "January 2017 to June 2018",
 		"description": "Worked under <a href=\"http://math.tamu.edu/~jml\">Dr. J. M. Landsberg</a> on a problem that lies at the intersection of algebraic geometry and combinatorics. The project studies the geometry of tensor networks. This is a question which has applications in quantum information theory and computer science.<br> See the paper I wrote at <a href=\"https://arxiv.org/abs/1806.03567\">https://arxiv.org/abs/1806.03567</a>.",

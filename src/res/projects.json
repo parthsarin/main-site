@@ -21,7 +21,7 @@
 		"date": "February 2019",
 		"img": "images/treehacks.png",
 		"imgCaption": "Treehacks 2019",
-		"description": "We built a densely connected neural network to analyze historical data of crime in Austin, TX and predict the geographical distribution of crime in the future. Our algorithm had (roughly) an 80% success rate. We plan to continue building and improving the design. <br> <ul> <li> <span class='text-primary'>Link: </span> Pending </li> </ul>"
+		"description": "We built a densely connected neural network to analyze historical data of crime in Austin, TX and predict the geographical distribution of crime in the future. Our algorithm had (roughly) an 80% success rate. We plan to continue building and improving the design. <br> <ul> <li> <span class='text-theme-dark'>Link: </span> Pending </li> </ul>"
 	},
 	{
 		"title": "Cup length as a bound on topological complexity",

@@ -1,3 +1,28 @@
+/* Theme */
+.text-theme {
+	color: rgb(196, 30, 237);
+	/*color: rgb(30, 177, 237);*/
+}
+
+.text-theme-dark {
+	color: rgb(149, 22, 166);
+	/*color: rgb(22, 125, 166);*/
+}
+
+.navbar-theme {
+	background: rgb(127, 49, 148);
+	/*background: rgb(49, 86, 148);*/
+}
+
+a {
+	color: rgb(22, 82, 166);
+}
+
+a:hover {
+	color: rgb(18, 64, 128);
+}
+
+/* Layout */
 html, body, #root {
 	height: 100%;
 	width: 100%;
@@ -9,9 +34,7 @@ html, body, #root {
 
 .page-component {
 	width: 100%;
-	/*min-height: 60vh;*/
-	/*height: 100%;*/
-	padding-top: 60px;
+	margin-bottom: 20px;
 	font-size: 14pt;
 }
 
@@ -19,23 +42,11 @@ html, body, #root {
 	margin-bottom: 60px;
 }
 
-.text-theme {
-	color: #ffc2f1;
-}
-
-.navbar-theme {
-	background: #c667e0;
-}
-
 /* About */
-/*.about-row {
-	display: table-row;
+.title {
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
-
-.about-row > div {
-    display: table-cell;
-    vertical-align: middle;
-}*/
 
 /* Page Break */
 span.outer-line {
@@ -74,12 +85,23 @@ img.logo {
 	border-radius: 50%;
 }
 
-/* Table */
+@media only screen and (max-width: 768px) {
+	img.logo {
+		margin-bottom: 10px;
+	}
+}
 
+/* Table */
 #skills table {
 	border-spacing: 2px;
 }
 
+/* Info Card */
+
 .info-card {
 	margin-top: 20px;
+}
+
+.info-card img.logo {
+	width: 120px;
 }

@@ -31,10 +31,10 @@ class ProjectCard extends React.Component {
 
 		var details = [];
 		if (project.abstract) {
-			details.push(<li key={1}><span className="text-info">Abstract: </span><span dangerouslySetInnerHTML={{ __html: project.abstract }}></span></li>);
+			details.push(<li key={1}><span className="text-theme-dark">Abstract: </span><span dangerouslySetInnerHTML={{ __html: project.abstract }}></span></li>);
 		}
 		if (project.link) {
-			details.push(<li key={2}><span className="text-info">Link: </span><a href={ project.link }>{ project.link }</a></li>);
+			details.push(<li key={2}><span className="text-theme-dark">Link: </span><a href={ project.link }>{ project.link }</a></li>);
 		}
 
 		const info = (

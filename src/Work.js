@@ -32,7 +32,7 @@ class WorkCard extends React.Component {
 		const info = (
 			<div>
 				<h3>{ inst.title }</h3>
-				<span><span className="text-info">{ inst.company }</span> | { inst.location } | { inst.dates }</span>
+				<span><span className="text-theme-dark">{ inst.company }</span> | { inst.location } | { inst.dates }</span>
 				<br /><br />
 				{ inst.tasks ? (
 					<ul>
