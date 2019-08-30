@@ -11,7 +11,7 @@
 	{
 		"title": "On the geometry of Tensor Network States of $2 \\times N$ grids",
 		"status": "Published with <a href=\"https://www.journals.elsevier.com/linear-algebra-and-its-applications\">Linear Algebra and its Applications</a>",
-		"date": "2019",
+		"date": "August 2019",
 		"abstract": "We discuss the geometry of a class of tensor network states, called projected entangled pair states in the Physics literature, for certain types of graphs. We provide initial results towards a question of Verstraete and Rizzi regarding the tensor network state of an $M \\times N$ grid; we partially answer the question for a $2 \\times N$ grid. We also study the $2 \\times N$ grid sitting on a torus and provide initial results towards understanding the Zariski closure of the set of tensor network states associated to this graph. Finally, we give explicit tensors that provide optimal bounds on the border rank of a generic tensor in the tensor network state of the $2 \\times N$ grid.",
 		"link": "https://doi.org/10.1016/j.laa.2019.04.002"
 	},

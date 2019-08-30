@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import './index.css';
+
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faGraduationCap, faBriefcase, faPencilAlt, faChess, faEnvelope } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faGraduationCap, faBriefcase, faPencilAlt, faChess, faEnvelope);
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
