@@ -55,13 +55,13 @@ class ProjectCard extends React.Component {
 		if (project.img) {
 			structure = (
 				<Card.Body as={Row}>
-					<Col md={2} className="d-flex align-items-center">
+					<Col lg={2} className="d-flex align-items-center">
 						<div className="w-100 d-flex flex-column">
 							<img src={ project.img } className="project-logo mx-auto d-block" alt={ project.name + ' logo' } />
 							{ project.imgCaption ? <span className="text-center text-muted" dangerouslySetInnerHTML={{ __html: project.imgCaption }}></span> : null }
 						</div>
 					</Col>
-					<Col md={10}>
+					<Col lg={10}>
 						{ info }
 					</Col>
 				</Card.Body>

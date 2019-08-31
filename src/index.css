@@ -83,6 +83,11 @@ span.outer-line {
 /* Logo */
 img.logo {
 	border-radius: 50%;
+	max-width: 100%;
+}
+
+img.project-logo {
+	max-width: 100%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -97,7 +102,6 @@ img.logo {
 }
 
 /* Info Card */
-
 .info-card {
 	margin-top: 20px;
 }

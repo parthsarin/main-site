@@ -47,10 +47,10 @@ class WorkCard extends React.Component {
 		if (inst.img) {
 			structure = (
 				<Card.Body as={Row}>
-					<Col md={2} className="d-flex align-items-center">
+					<Col lg={2} className="d-flex align-items-center">
 						<img src={inst.img} className="logo mx-auto d-block" alt={ inst.name + ' logo' } />
 					</Col>
-					<Col md={10}>
+					<Col lg={10}>
 						{ info }
 					</Col>
 				</Card.Body>
