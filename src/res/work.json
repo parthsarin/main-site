@@ -1,5 +1,16 @@
 [
 	{
+		"title": "Instructor",
+		"company": "Stanford University",
+		"location": "Stanford, CA",
+		"dates": "December 2019 to present",
+		"tasks": [
+			"Teach a 2-unit, 10-week course exploring the Python programming language with an emphasis on building core capability with the language and using Python for machine learning and data science.",
+			"Design and deliver course curriculum including lectures, handouts, reading materials, assignments, labs, and more."
+		],
+		"img": "images/stanford-logo.png"
+	},
+	{
 		"title": "Law Clerk for the Gang Crimes Unit",
 		"company": "Cook County State's Attorney's Office",
 		"location": "Chicago, IL",
@@ -42,16 +53,5 @@
 		"dates": "January 2017 to June 2018",
 		"description": "Worked under <a href=\"http://math.tamu.edu/~jml\">Dr. J. M. Landsberg</a> on a problem that lies at the intersection of algebraic geometry and combinatorics. The project studies the geometry of tensor networks. This is a question which has applications in quantum information theory and computer science.<br> See the paper I wrote at <a href=\"https://arxiv.org/abs/1806.03567\">https://arxiv.org/abs/1806.03567</a>.",
 		"img": "images/tam-logo.png"
-	},
-	{
-		"title": "Chief Web Designer",
-		"company": "Maplets for Calculus",
-		"location": "College Station, TX",
-		"dates": "2014 to 2017",
-		"tasks": [
-			"Designed and wrote eight “maplets” to change the pedagogical process by which Calculus is often taught (a maplet is a computer applet written in Maple).",
-			"Created database structures and algorithms to surround the maplet architecture. Created a maplet rating page powered by the Symfony (PHP) framework."
-		],
-		"description": "Grant: NSF DUE CCLI / TUES Grant 0737209 / 1123255 (Awarded to Dr. Philip B. Yasskin)"
 	}
 ]
