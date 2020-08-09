@@ -30,12 +30,8 @@ export default class Navigation extends React.Component {
 
 	          <Navbar.Collapse id="responsive-navbar-nav">
 	            <Nav className="ml-auto">
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="about">About</NavLink>
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="education">Education</NavLink>
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="work">Work</NavLink>
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="projects">Projects</NavLink>
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="skills">Skills</NavLink>
-	              <NavLink onClick={() => this.setState({ expanded: false })} target="contact">Contact</NavLink>
+	              <NavLink target="about">About</NavLink>
+	              <NavLink target="contact">Contact</NavLink>
 	            </Nav>
 	          </Navbar.Collapse>
 	        </Navbar>

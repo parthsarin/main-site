@@ -17,8 +17,9 @@ export default class About extends React.Component {
 							</Col>
 							<Col sm={12} lg={9}>
 								<h2>About Me</h2>
-								<p>I am a student and instructor at Stanford University studying pure mathematics and public policy. I teach <a href="https://stanfordpython.com/">CS41</a>, a class on the Python programming language. My research is in applied algebraic geometry with applications in <span className="text-theme-dark">machine learning</span> and <span className="text-theme-dark">data science</span>. I am a skilled legal researcher and have written dozens of memoranda and motions on complex <span className="text-theme-dark">Fourth Amendment</span> and <span className="text-theme-dark">Freedom of Religion</span> issues, many of which have been filed in courts.</p>
-								<p>Before coming to Stanford, while I was in high school, I studied and conducted research in mathematics at Texas A&amp;M University. There, I accumulated almost fifty credits and completed the mathematics courses required for a degree in pure math. </p>
+								<p>I'm a student and instructor at Stanford: I study public policy and math and teach <a href="https://stanfordpython.com/">CS 41</a>, a class about the Python programming language. In the past, I've been a bartender, worked in criminal justice, and applied data science to education policy at the California Department of Education.</p>
+
+								<p>The common thread that runs through all of those experiences is that I love communicating complicated ideas to diverse audiences. I'm deeply passionate about using data to drive sensible policy decisions and believe we need more people who understand data and policy to bridge the gap between those worlds.</p>
 							</Col>
 						</Row>
 				</Col>
