@@ -1,0 +1,27 @@
+html, body {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    background-color: #8161c5;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    margin: 30px;
+    max-width: 800px;
+}
+
+a,
+a:visited {
+    color: white;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 0;
+}
+
+p {
+    line-height: 1.5;
+}
