@@ -5,4 +5,5 @@ module.exports = function(eleventyConfig) {
   ]);
 
   eleventyConfig.addPassthroughCopy("projects");
+  eleventyConfig.addPassthroughCopy("img");
 };
