@@ -10,7 +10,7 @@ BA Public Policy, BS Math, Minor Education from Stanford
 
 ## about me
 
-<img src="/img/me.png" class="logo">
+<img src="/img/me.png" class="logo" alt="me standing in front of the golden gate bridge; i look fly as hell">
 
 These days, I spend a lot of my time thinking about how we can combine computer science and education. This includes quantitative methods used in policy-making and also designing curricula to teach CS and data science in K-12 schools.
 
