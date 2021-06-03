@@ -26,3 +26,10 @@ p,
 li {
     line-height: 1.5;
 }
+
+img.logo {
+    /* display: block; */
+    max-width: 200px;
+    margin: 0 auto;
+    border-radius: 40em;
+}

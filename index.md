@@ -10,6 +10,8 @@ BA Public Policy, BS Math, Minor Education from Stanford
 
 ## about me
 
+<img src="/img/me.png" class="logo">
+
 These days, I spend a lot of my time thinking about how we can combine computer science and education. This includes quantitative methods used in policy-making and also designing curricula to teach CS and data science in K-12 schools.
 
 I'm generally pretty passionate about the intersection between data and policy, and how to navigate it ethically.
