@@ -8,7 +8,7 @@ Currently: Instructor for [CS 41](https://stanfordpython.com/) @ Stanford (with 
 Previously: Fellow @ [California Department of Education (AMARD)](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
 BA Public Policy, BS Math, Minor Education from Stanford
 
-## about me
+## 🧑🏽‍🏫 about me
 
 <img src="/img/me.png" class="logo" alt="me standing in front of the golden gate bridge; i look fly as hell">
 
@@ -22,7 +22,7 @@ A random collection of additional facts:
 * When I'm on campus, I like picking fruit off of trees and cooking with it
 * As a kid, I fostered 9 kittens and named them after the US Supreme Court
 
-## projects
+## 🚀 projects
 
 Here are a few projects I'm proud of.
 
@@ -32,12 +32,12 @@ Here are a few projects I'm proud of.
 * I'm working on a [data science curriculum](https://docs.google.com/presentation/d/1T-Sac5lAUekTRNtVg8OOC2nXx8SefRZHRK38JCv3V6I/edit) for high schoolers
 * I work at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
 
-## social media
+## 🌎 social media
 
 I'm not really active on any social media; if you want to get in touch, you should email me at parthsarin@gmail.com.
 
 [github](https://github.com/parthsarin/) (i tend to be active there), [twitter](https://twitter.com/parthsarin)
 
-## credits
+## 📜 credits
 
 The general look and feel of this site is from [Victoria Kirst's personal site](https://www.victoriakirst.com/)
