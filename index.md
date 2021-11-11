@@ -4,7 +4,7 @@ title: Parth Sarin
 ---
 # hi, i'm parth! 👋🏽
 
-Currently: Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Education Policy Analysis @ [PACE](https://edpolicyinca.org/), AI Literacy Research @ Stanford<br />
+Currently: Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ Stanford Graduate School of Education, Curriculum Design @ Stanford College of Engineering, Education Policy Analysis @ [PACE](https://edpolicyinca.org/)<br />
 Previously: Fellow @ [PEG](https://www.publicequitygroup.org/), Fellow @ [California Department of Education (AMARD)](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
 BA Public Policy, BS Math, Minor & Honors in Education from Stanford
 
