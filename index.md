@@ -4,17 +4,15 @@ title: Parth Sarin
 ---
 # hi, i'm parth! 👋🏽
 
-Currently: Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ Stanford Graduate School of Education, Curriculum Design @ Stanford College of Engineering, Education Policy Analysis @ [PACE](https://edpolicyinca.org/)<br />
-Previously: Fellow @ [PEG](https://www.publicequitygroup.org/), Fellow @ [California Department of Education (AMARD)](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
-BA Public Policy, BS Math, Minor & Honors in Education from Stanford
+*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ Stanford Graduate School of Education, Curriculum Design @ Stanford College of Engineering, Education Policy Analysis @ [PACE](https://edpolicyinca.org/)<br />
+*Previously:* Fellow @ [PEG](https://www.publicequitygroup.org/), Fellow @ [California Department of Education (AMARD)](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
+*BA Public Policy, BS Math, Minor & Honors in Education from Stanford*
 
 ## 🧑🏽‍🏫 about me
 
 <img src="/img/me.png" class="logo" alt="me standing in front of the golden gate bridge">
 
-These days, I spend a lot of my time thinking about how we can combine computer science and education. This includes quantitative methods used in policy-making and also designing curricula to teach CS.
-
-I'm passionate about the intersection between data and policy, and how to navigate it ethically.
+These days, I spend a lot of my time thinking about the intersection of computer science and education. This includes quantitative methods used in policy-making and also designing curricula to teach CS.
 
 A random collection of additional facts:
 
@@ -29,8 +27,8 @@ Here are a few projects I'm proud of.
 * [gibberish](/projects/gibberish) displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")
 * the [autograder](https://github.com/stanfordpython/autograder) we use for CS 41 has advanced testing capabilities to capture and run student code
 * michael and I built the [Stanford Python website](https://stanfordpython.com/) in React.js with some nice, dynamic routing
-* I'm working on a [data science curriculum](https://docs.google.com/presentation/d/1T-Sac5lAUekTRNtVg8OOC2nXx8SefRZHRK38JCv3V6I/edit) for high schoolers
-* I work at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
+* I designed one unit of a [data science curriculum](https://docs.google.com/presentation/d/1T-Sac5lAUekTRNtVg8OOC2nXx8SefRZHRK38JCv3V6I/edit) for high schoolers
+* I worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
 
 ## 🌎 social media
 
