@@ -8,7 +8,7 @@ title: Parth Sarin
     <img src="/img/values-logo.png" width="200" alt="a person sitting in front of a computer">
 </div>
 
-Hi there! I'm Parth Sarin, with the Graduate School of Education, and I’m really interested in why different students have different experiences in a class. I’m writing my thesis on student identity and belonging, and as part of the study I want to work with people like you to understand your experience in the course.
+Hi there! I'm Parth Sarin, a student with the Graduate School of Education, and I'm really interested in why different students have different experiences in a class. I'm writing my thesis on student identity and belonging, and as part of the study I want to work with people like you to understand your experience in the course.
 
 ## 🍪 logistics
 
