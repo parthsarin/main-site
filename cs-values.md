@@ -1,6 +1,6 @@
 ---
 layout: main.njk
-title: Parth Sarin
+title: "Identity & Value Interpretation in CS Ed"
 ---
 # me++: Identity and Value Interpretation in Computer Science Education
 
