@@ -5,8 +5,7 @@ title: Parth Sarin
 # hi, i'm parth! 👋🏽
 
 *Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ Stanford Graduate School of Education, Curriculum Design @ Stanford College of Engineering<br />
-*Previously:* Education Policy Analysis @ [PACE](https://edpolicyinca.org/), Fellow @ [PEG](https://www.publicequitygroup.org/), Fellow @ [California Department of Education (AMARD)](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
-*BA Public Policy, BS Math, Minor & Honors in Education from Stanford*
+*Previously:* Education Policy Analysis @ [PACE](https://edpolicyinca.org/), Fellow @ [PEG](https://www.publicequitygroup.org/), Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
 
 ## 🧑🏽‍🏫 about me
 
@@ -29,6 +28,7 @@ Here are a few projects I'm proud of.
 * michael and I built the [Stanford Python website](https://stanfordpython.com/) in React.js with some nice, dynamic routing
 * I designed one unit of a [data science curriculum](https://docs.google.com/presentation/d/1T-Sac5lAUekTRNtVg8OOC2nXx8SefRZHRK38JCv3V6I/edit) for high schoolers
 * I worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
+* here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for an award-winning talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
 
 ## 🌎 social media
 
