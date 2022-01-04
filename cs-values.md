@@ -15,7 +15,7 @@ body {
  <a style="margin-bottom: 20px; font-size: 16pt;" href="mailto:psarin@stanford.edu?subject=Interested%20in%20CS%20values%20study&body=Hi%20Parth%2C%0A%0AI%27m%20interested%20in%20participating%20in%20your%20research%20%28me%2B%2B%3A%20Identity%20and%20Value%20Interpretation%20in%20Computer%20Science%20Education%29.%0A%0AThanks%21">click here if you're interested!</a>
 </div>
 
-Hi there! I'm Parth, a student with the GSE. I'm writing my thesis on student identity and belonging in 106A. As part of the study I want to work with people like you to understand your experience in the course.
+Hi there! I'm Parth, a student with the Graduate School of Education. I'm writing my thesis on student identity and belonging in 106A. As part of the study I want to work with people like you to understand your experience in the course.
 
 This project can help future students taking this course or majoring in CS: understanding what promotes or harms belonging in 106A allows us to improve future versions of the course. And, if you participate, ***I'll bake you cookies!*** My friend has a great cookie recipe 😊
 
