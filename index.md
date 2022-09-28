@@ -11,7 +11,7 @@ title: Parth Sarin
 
 <img src="/img/me.png" class="logo" alt="me standing in front of the golden gate bridge">
 
-These days, I'm interested in how we can use technology to make education more equitable and accessible, particularly computing education. Lately, this has involved thinking about student conceptions of artificial intelligence and building curriculum about its social implications.
+These days, I'm interested in how we can use technology to make education, particularly computing education, more equitable and accessible. Lately, this has involved thinking about student conceptions of artificial intelligence and building curriculum about its social implications.
 
 A random collection of additional facts:
 
@@ -33,6 +33,6 @@ Here are a few projects I'm proud of.
 
 ## 🌎 social media
 
-I'm not super active on social media; if you want to get in touch, you should email me at psarin@stanford.edu.
+i'm not super active on social media; if you want to get in touch, you should email me at psarin@stanford.edu.
 
 [github](https://github.com/parthsarin/), [twitter](https://twitter.com/parthsarin)
