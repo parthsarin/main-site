@@ -1,6 +1,6 @@
 ---
 layout: main.njk
-title: Parth Sarin
+title: hi, i'm parth!
 ---
 # hi, i'm parth! 👋🏽
 
