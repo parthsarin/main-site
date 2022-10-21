@@ -4,7 +4,7 @@ title: hi, i'm parth!
 ---
 # hi, i'm parth! 👋🏽
 
-*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ [DISTAL Lab](https://distallab.sites.stanford.edu/), TA for CS 46N @ Stanford<br /> <div style="margin-bottom: -7px"></div>
+*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), TA for CS 46N @ Stanford<br /> <div style="margin-bottom: -7px"></div>
 *Previously:* Education Policy Analysis @ [PACE](https://edpolicyinca.org/), Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
 
 ## 🧑🏽‍🏫 about me
