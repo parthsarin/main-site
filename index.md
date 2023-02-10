@@ -4,7 +4,7 @@ title: hi, i'm parth!
 ---
 # hi, i'm parth! 👋🏽
 
-*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, [The Algorithmic Toolbox: An Everyday Guide](https://craft.stanford.edu) @ Stanford & [NEEL](https://edequitylab.org/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/)
+*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Instructor for [The Algorithmic Toolbox: An Everyday Guide](https://craft.stanford.edu) @ Stanford & [NEEL](https://edequitylab.org/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/)<br />
 *Previously:* Education Policy Analysis @ [PACE](https://edpolicyinca.org/), Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
 
 ## 🧑🏽‍🏫 about me
