@@ -4,20 +4,34 @@ title: hi, i'm parth!
 ---
 # hi, i'm parth! 👋🏽
 
-*Currently:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Instructor for [The Algorithmic Toolbox: An Everyday Guide](https://craft.stanford.edu) @ Stanford & [NEEL](https://edequitylab.org/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/)<br />
-*Previously:* Education Policy Analysis @ [PACE](https://edpolicyinca.org/), Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford<br />
+<div id="roles">
+
+*Currently:* 
+* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
+* Instructor for [The Algorithmic Toolbox: An Everyday Guide](https://craft.stanford.edu) @ Stanford & [NEEL](https://edequitylab.org/)
+* AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/)
+* Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
+
+*Previously:* Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford
+</div>
 
 ## 🧑🏽‍🏫 about me
 
-<img src="/img/me.png" class="logo" alt="me standing in front of the golden gate bridge">
+<img src="/img/me.png" class="logo" alt="me with dyed hair standing in front of a mural">
 
 These days, I'm interested in how we can use technology to make education, particularly computing education, more equitable and accessible. Lately, this has involved thinking about student conceptions of artificial intelligence and building curriculum about its social implications.
 
 A random collection of additional facts:
 
 * I have eleven stuffed unicorns and one real one
-* As a kid, I fostered 9 kittens and named them after the US Supreme Court
+* I'm [mortally terrified](https://griefbacon.substack.com/p/the-duolingo-owl) of owls
 * Last summer, I biked across the US and taught math to kids along the way
+
+I was really fortunate to be featured in this lovely spotlight about some of my recent work 😊
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s6aH1LtFzno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## 🚀 projects
 
@@ -30,8 +44,6 @@ Here are a few projects I'm proud of.
 * i worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
 * here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for an award-winning talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
 
-## 🌎 social media
+## 🌎 get in touch
 
-i'm not super active on social media; if you want to get in touch, you should email me at psarin@stanford.edu.
-
-[github](https://github.com/parthsarin/)
+i'm not super active on social media; if you want to get in touch, you should email me at psarin@stanford.edu. or, i'm also on [github](https://github.com/parthsarin/).
