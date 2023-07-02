@@ -4,6 +4,10 @@ html, body {
 }
 
 body {
+    /* --link-color: #61C5B3; */
+    --link-color: #C58161;
+    --link-amt: 45%;
+
     background-color: #8161c5;
     color: white;
     font-family: Roboto, sans-serif;
@@ -16,12 +20,21 @@ body {
 a,
 a:visited {
     color: white;
-    border-bottom: 1px solid white;
+	background: linear-gradient(
+		0deg,
+		var(--link-color) var(--link-amt),
+		rgba(0,0,0,0) var(--link-amt) 
+	);
+    transition: all 0.1s ease-out;
     text-decoration: none;
 }
 
 a:hover {
-    border-bottom: 0;
+	background: linear-gradient(
+		0deg,
+		var(--link-color) 13%,
+		rgba(0,0,0,0) 13%
+	);
 }
 
 p,
