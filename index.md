@@ -27,11 +27,7 @@ A random collection of additional facts:
 * I'm [mortally terrified](https://griefbacon.substack.com/p/the-duolingo-owl) of owls
 * Last summer, I biked across the US and taught math to kids along the way
 
-I was really fortunate to be featured in this lovely spotlight about some of my recent work 😊
-
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s6aH1LtFzno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+I was really fortunate to be featured in [this lovely spotlight about some of my recent work](https://youtu.be/s6aH1LtFzno) 😊
 
 ## 🚀 projects
 
