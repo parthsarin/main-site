@@ -31,14 +31,14 @@ I was really fortunate to be featured in [this lovely spotlight about some of my
 
 ## 🚀 projects
 
-Here are a few projects I'm proud of.
+Here are a few projects I've worked on:
 
 * in collaboration with teachers, we're building a [suite of resources](https://craft.stanford.edu/) that teachers can use to teach AI
 * i'm occasionally in Scotland, helping develop computing curriculum — in the latest trip, we worked on AI ethics and [debiasing algorithms](https://debias.netlify.app/)
 * when i taught cs 41 with the lovely [michael cooper](https://michaeljohncooper.com/) we built an [autograder](https://github.com/stanfordpython/autograder) for the course that can run student code and try to explain what went wrong in plain English
 * [gibberish](/projects/gibberish) displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")
 * i worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
-* here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for an award-winning talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
+* here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for a talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
 
 ## 🌎 get in touch
 
