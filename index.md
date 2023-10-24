@@ -2,43 +2,37 @@
 layout: main.njk
 title: hi, i'm parth!
 ---
+
 # hi, i'm parth! 👋🏽
 
 <div id="roles">
 
-*Currently:* 
-* Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
-* Instructor for [The Algorithmic Toolbox: An Everyday Guide](https://docs.google.com/document/d/1p_Racn9prXz3MyZ2qwAWcwdIUWCiccr76i6o8iSPUCk/preview) @ Stanford & [NEEL](https://edequitylab.org/)
-* AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/)
-* Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
+_Currently:_
 
-*Previously:* Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/), TA for [CS 106A](http://cs106a.stanford.edu/) @ Stanford
+- Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
+- Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/)
+
+_Previously:_ AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/)
+
 </div>
 
 ## 🧑🏽‍🏫 about me
 
-<img src="/img/me.png" class="logo" alt="me with dyed hair standing in front of a mural">
+<img src="/img/me.png" class="logo" alt="me wearing a bandana with flamingos on it">
 
-These days, I'm interested in how we can use technology to make education, particularly computing education, more equitable and accessible. In a recent project, this has involved co-designing curricula about artificial intelligence with teachers, thinking about student conceptions of AI, and creating entry points into the topic from the perspectives of many different disciplines.
+As an instructor for CS courses, through computing curriculum design, and in building teaching tools, my work has involved many aspects of computer science and education. These days, those interests have converged around questions about power: I study ways that technology can be used to reify, reproduce, and unsettle power structures in education. Rather than use technology to improve teaching or learning, my work tries to question the normative assumptions that underlie those goals.
 
-A random collection of additional facts:
-
-* I have eleven stuffed unicorns and one real one
-* I'm [mortally terrified](https://griefbacon.substack.com/p/the-duolingo-owl) of owls
-* Last summer, I biked across the US and taught math to kids along the way
-
-I was really fortunate to be featured in [this lovely spotlight about some of my recent work](https://youtu.be/s6aH1LtFzno) 😊
-
-## 🚀 projects
+## 🎨 projects
 
 Here are a few projects I've worked on:
 
-* in collaboration with teachers, we're building a [suite of resources](https://craft.stanford.edu/) that teachers can use to teach AI
-* i'm occasionally in Scotland, helping develop computing curriculum — in the latest trip, we worked on AI ethics and [debiasing algorithms](https://debias.netlify.app/)
-* when i taught cs 41 with the lovely [michael cooper](https://michaeljohncooper.com/) we built an [autograder](https://github.com/stanfordpython/autograder) for the course that can run student code and try to explain what went wrong in plain English
-* [gibberish](/projects/gibberish) displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")
-* i worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
-* here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for a talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
+- i helped start the [CRAFT project](https://craft.stanford.edu/) and worked with teachers to build resources to teach about AI
+- my summer fellowship at [CSET](https://cset.georgetown.edu/) involved technical research, advising policymakers, and writing about the values promoted in university computing curricula
+- i'm occasionally in Scotland, helping develop computing curriculum — in the latest trip, we worked on AI ethics and [debiasing algorithms](https://debias.netlify.app/)
+- when i taught cs 41 with the lovely [michael cooper](https://michaeljohncooper.com/) we built an [autograder](https://github.com/stanfordpython/autograder) for the course that can run student code and try to explain what went wrong in plain English
+- [gibberish](/projects/gibberish) displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")
+- i worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
+- here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for a talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
 
 ## 🌎 get in touch
 
