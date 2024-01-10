@@ -37,4 +37,4 @@ Here are a few projects I've worked on:
 
 ## 🌎 get in touch
 
-you can email me at psarin@stanford.edu!
+you can email me at psarin@cs.stanford.edu!
