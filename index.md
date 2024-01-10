@@ -10,6 +10,7 @@ title: hi, i'm parth!
 _Currently:_
 
 - Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
+- Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
 - Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/)
 
 _Previously:_ AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/)
