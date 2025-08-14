@@ -31,6 +31,15 @@ I study questions about power and technology from perspectives informed by gende
   <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">Jun 2025</div>
   <div>Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
 
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">May 2025</div>
+  <div>Presented <a href="https://arxiv.org/abs/2505.15948">"Citation Parsing and Analysis with Language Models"</a> at the Workshop on Open Citations at the University of Bologna</div>
+
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">December 2024</div>
+  <div>Presented <a href="https://docs.google.com/presentation/d/1tGDoOqURO37ce3MCqrokp-BLt23ml9oOw15YBQVudt0/edit?usp=sharing">"The Gender Threat: Right-Wing Imaginaries on Brazilian Twitter"</a> with Gabriel Poesia at the School of Advanced Study, University of London</div>
+
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">March 2024</div>
+  <div>Published <a href="https://doi.org/10.1609/aaai.v38i21.30360">"Co-designing AI Education Curriculum with Cross-Disciplinary High School Teachers"</a> with many CRAFT collaborators</div>
+
   <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2021 – 2023</div>
   <div>Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
 
