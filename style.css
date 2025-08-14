@@ -5,7 +5,7 @@ html, body {
 
 body {
     /* --link-color: #61C5B3; */
-    --link-color: #C58161;
+    --link-color: #FFB366;
     --link-amt: 45%;
 
     background-color: #8161c5;
@@ -19,22 +19,17 @@ body {
 
 a,
 a:visited {
-    color: white;
-	background: linear-gradient(
-		0deg,
-		var(--link-color) var(--link-amt),
-		rgba(0,0,0,0) var(--link-amt) 
-	);
+    color: var(--link-color);
+    text-decoration: underline;
+    text-decoration-color: var(--link-color);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
     transition: all 0.1s ease-out;
-    text-decoration: none;
 }
 
 a:hover {
-	background: linear-gradient(
-		0deg,
-		var(--link-color) 13%,
-		rgba(0,0,0,0) 13%
-	);
+    color: white;
+    text-decoration-color: white;
 }
 
 p,

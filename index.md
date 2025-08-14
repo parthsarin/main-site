@@ -10,31 +10,37 @@ title: hi, i'm parth!
 _Currently:_
 
 - Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
-- Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
-- Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/)
+- AI Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
+- AI Researcher @ [DataSeer](https://dataseer.ai/)
+- AI Researcher @ [COMET](https://www.cometadata.org/)
 
-_Previously:_ AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford, Summer Fellow @ [California Department of Education](https://www.cde.ca.gov/ta/ac/)
+_Previously:_ Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
 
 </div>
 
 ## 🧑🏽‍🏫 about me
 
-<img src="/img/me.png" class="logo" alt="me wearing a bandana with flamingos on it">
-
-As an instructor for CS courses, through computing curriculum design, and in building teaching tools, my work has involved many aspects of computer science and education. These days, those interests have converged around questions about power: I study ways that technology can be used to reify, reproduce, and unsettle power structures in education. Rather than use technology to improve teaching or learning, my work tries to question the normative assumptions that underlie those goals.
+I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and postcolonial scholarship. My recent work has focused on intimacy—including romantic relationships, friendships, therapy, and other forms of care—between humans and language technologies.
 
 ## 🎨 projects
 
-Here are a few projects I've worked on:
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 1.5rem; margin-top: 1rem;">
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2025 – 2028</div>
+  <div>Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
 
-- i helped start the [CRAFT project](https://craft.stanford.edu/) and worked with teachers to build resources to teach about AI
-- my summer fellowship at [CSET](https://cset.georgetown.edu/) involved technical research, advising policymakers, and writing about the values promoted in university computing curricula
-- i'm occasionally in Scotland, helping develop computing curriculum — in the latest trip, we worked on AI ethics and [debiasing algorithms](https://debias.netlify.app/)
-- when i taught cs 41 with the lovely [michael cooper](https://michaeljohncooper.com/) we built an [autograder](https://github.com/stanfordpython/autograder) for the course that can run student code and try to explain what went wrong in plain English
-- [gibberish](/projects/gibberish) displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")
-- i worked at [CodePath](https://codepath.org/) as an instructor, teaching CS interview skills to mostly FLI & BIPOC college students
-- here's [the slide deck](/files/mathfest-2017-tensor-talk.pdf) for a talk I gave at MathFest 2017—it was about the application of tensor networks to phylogenetics
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">Jun 2025</div>
+  <div>Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
+
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2021 – 2023</div>
+  <div>Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
+
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2019 – 2023</div>
+  <div>Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)—and built an <a href="https://github.com/stanfordpython/autograder">autograder</a> for the course that can run student code and try to explain what went wrong in plain English</div>
+
+  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2019</div>
+  <div><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
+</div>
 
 ## 🌎 get in touch
 
-you can email me at psarin@cs.stanford.edu!
+you can email me at psarin@stanford.edu!
