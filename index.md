@@ -16,6 +16,8 @@ _Currently:_
 
 _Previously:_ Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
 
+_Reach me at:_ psarin@stanford.edu
+
 </div>
 
 ## 🧑🏽‍🏫 about me
@@ -24,32 +26,28 @@ I study questions about power and technology from perspectives informed by gende
 
 ## 🎨 projects
 
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 1.5rem; margin-top: 1rem;">
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2025 – 2028</div>
-  <div>Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
+<div class="projects-grid">
+  <div class="project-date">July 2025</div>
+  <div class="project-description">Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">Jun 2025</div>
-  <div>Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
+  <div class="project-date">Jun 2025</div>
+  <div class="project-description">Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">May 2025</div>
-  <div>Presented <a href="https://arxiv.org/abs/2505.15948">"Citation Parsing and Analysis with Language Models"</a> at the Workshop on Open Citations at the University of Bologna</div>
+  <div class="project-date">May 2025</div>
+  <div class="project-description">Presented <a href="https://arxiv.org/abs/2505.15948">"Citation Parsing and Analysis with Language Models"</a> at the Workshop on Open Citations at the University of Bologna</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">December 2024</div>
-  <div>Presented <a href="https://docs.google.com/presentation/d/1tGDoOqURO37ce3MCqrokp-BLt23ml9oOw15YBQVudt0/edit?usp=sharing">"The Gender Threat: Right-Wing Imaginaries on Brazilian Twitter"</a> with Gabriel Poesia at the School of Advanced Study, University of London</div>
+  <div class="project-date">December 2024</div>
+  <div class="project-description">Presented <a href="https://docs.google.com/presentation/d/1tGDoOqURO37ce3MCqrokp-BLt23ml9oOw15YBQVudt0/edit?usp=sharing">"The Gender Threat: Right-Wing Imaginaries on Brazilian Twitter"</a> with Gabriel Poesia at the School of Advanced Study, University of London</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">March 2024</div>
-  <div>Published <a href="https://doi.org/10.1609/aaai.v38i21.30360">"Co-designing AI Education Curriculum with Cross-Disciplinary High School Teachers"</a> with many CRAFT collaborators</div>
+  <div class="project-date">March 2024</div>
+  <div class="project-description">Published <a href="https://doi.org/10.1609/aaai.v38i21.30360">"Co-designing AI Education Curriculum with Cross-Disciplinary High School Teachers"</a> with many CRAFT collaborators</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2021 – 2023</div>
-  <div>Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
+  <div class="project-date">March 2021</div>
+  <div class="project-description">Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2019 – 2023</div>
-  <div>Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)—and built an <a href="https://github.com/stanfordpython/autograder">autograder</a> for the course that can run student code and try to explain what went wrong in plain English</div>
+  <div class="project-date">2019 – 2023</div>
+  <div class="project-description">Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)—and built an <a href="https://github.com/stanfordpython/autograder">autograder</a> for the course that can run student code and try to explain what went wrong in plain English</div>
 
-  <div style="font-weight: 700; color: rgba(255, 255, 255, 0.8); white-space: nowrap;">2019</div>
-  <div><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
+  <div class="project-date">2019</div>
+  <div class="project-description"><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
 </div>
-
-## 🌎 get in touch
-
-you can email me at psarin@stanford.edu!
