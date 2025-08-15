@@ -30,7 +30,7 @@ I study questions about power and technology from perspectives informed by gende
   <div class="project-date">July 2025</div>
   <div class="project-description">Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
 
-  <div class="project-date">Jun 2025</div>
+  <div class="project-date">June 2025</div>
   <div class="project-description">Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
 
   <div class="project-date">May 2025</div>
