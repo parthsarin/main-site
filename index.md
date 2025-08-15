@@ -22,7 +22,7 @@ _Reach me at:_ psarin@stanford.edu
 
 ## 🧑🏽‍🏫 about me
 
-I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and postcolonial scholarship. My recent work has focused on intimacy—including romantic relationships, friendships, therapy, and other forms of care—between humans and language technologies.
+I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, therapy, and other forms of care—between humans and language technologies.
 
 ## 🎨 projects
 
