@@ -27,6 +27,9 @@ I study questions about power and technology from perspectives informed by gende
 ## 🎨 projects
 
 <div class="projects-grid">
+  <div class="project-date">August 2025</div>
+  <div class="project-description">Hosted a workshop at <a href="https://www.lovewithrobots.com/">LSR 2025</a> about ethnography of human intimacy for/with LLMs</div>
+
   <div class="project-date">July 2025</div>
   <div class="project-description">Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
 
