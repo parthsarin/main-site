@@ -9,12 +9,12 @@ title: hi, i'm parth!
 
 _Currently:_
 
-- Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/)
-- AI Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
 - AI Researcher @ [DataSeer](https://dataseer.ai/)
 - AI Researcher @ [COMET](https://www.cometadata.org/)
+- Research Associate @ [Stanford Graduate School of Education](https://ed.stanford.edu/)
+- AI Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
 
-_Previously:_ Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
+_Previously:_ Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/), Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
 
 _Reach me at:_ psarin@stanford.edu
 
@@ -22,7 +22,7 @@ _Reach me at:_ psarin@stanford.edu
 
 ## 🧑🏽‍🏫 about me
 
-I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, therapy, and other forms of care—between people and language technologies.
+I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, and therapy—and attempts to automate care work.
 
 ## 🎨 projects
 
@@ -49,7 +49,7 @@ I study questions about power and technology from perspectives informed by gende
   <div class="project-description">Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
 
   <div class="project-date">2019 – 2023</div>
-  <div class="project-description">Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)—and built an <a href="https://github.com/stanfordpython/autograder">autograder</a> for the course that can run student code and try to explain what went wrong in plain English</div>
+  <div class="project-description">Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)</div>
 
   <div class="project-date">2019</div>
   <div class="project-description"><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
