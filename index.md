@@ -10,9 +10,10 @@ title: hi, i'm parth!
 _Currently:_
 
 - AI Researcher @ [DataSeer](https://dataseer.ai/)
-- AI Researcher @ [COMET](https://www.cometadata.org/)
+- Researcher @ [COMET](https://www.cometadata.org/)
 - Research Associate @ [Stanford Graduate School of Education](https://ed.stanford.edu/)
 - Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
+- AI Practitioner in Residence @ [Faculty of Education, University of British Columbia](https://educ.ubc.ca/)
 
 _Previously:_ Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/), Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
 
