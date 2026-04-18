@@ -9,6 +9,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("files");
   eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("portfolio/portfolio.css");
 
   eleventyConfig.ignores.add("CLAUDE.md");
+  eleventyConfig.ignores.add("scripts/**");
 };
