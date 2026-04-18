@@ -16,19 +16,19 @@ permalink: /portfolio/
 <h1 class="site-title">parth sarin</h1>
 <p class="site-subtitle">// portfolio, 2022 – 2026</p>
 
-<p class="about">i'm an artist working with fabric, wood, and algorithms. i like to make pieces to think with about diaspora and migration, violence and social movements, memory, and how technology reaches for intimacy it can't quite hold. my research sits near gender theory, surveillance studies, and decolonial scholarship — my art is considerably more clumsy.</p>
+<p class="about">I'm an artist working with fabric, wood, and algorithms. I like to make pieces that help us think about diaspora and migration, violence and social movements, memory, and how technology reaches for intimacy it can't quite hold. My research sits near gender theory, surveillance studies, and decolonial scholarship — my art is considerably more clumsy.</p>
 
 <div class="ascii-divider" aria-hidden="true">================================================================================</div>
 
 <section class="toc" aria-label="index of works">
   <p class="toc-heading">index</p>
   <ol>
-    <li><a href="#w01"><span class="toc-num">01.</span><span>on recognition</span></a></li>
-    <li><a href="#w02"><span class="toc-num">02.</span><span>displacement, los angeles</span></a></li>
-    <li><a href="#w03"><span class="toc-num">03.</span><span>crude prosthetic</span></a></li>
-    <li><a href="#w04"><span class="toc-num">04.</span><span>two cakes</span></a></li>
-    <li><a href="#w05"><span class="toc-num">05.</span><span>for Medha</span></a></li>
-    <li><a href="#w06"><span class="toc-num">06.</span><span>assorted flowers, crocheted</span></a></li>
+    <li><a href="#w01"><span class="toc-num">01.</span><span>On recognition</span></a></li>
+    <li><a href="#w02"><span class="toc-num">02.</span><span>Displacement, Los Angeles</span></a></li>
+    <li><a href="#w03"><span class="toc-num">03.</span><span>Crude prosthetic</span></a></li>
+    <li><a href="#w04"><span class="toc-num">04.</span><span>Two cakes</span></a></li>
+    <li><a href="#w05"><span class="toc-num">05.</span><span>For Medha</span></a></li>
+    <li><a href="#w06"><span class="toc-num">06.</span><span>Assorted flowers, crocheted</span></a></li>
   </ol>
 </section>
 
@@ -37,7 +37,7 @@ permalink: /portfolio/
 <article class="work" id="w01">
   <header class="work-meta">
     <span class="work-tag">[spring 2024]</span>
-    <h2 class="work-title">on recognition</h2>
+    <h2 class="work-title">On recognition</h2>
     <span class="work-medium">video · screenshot · mixed digital &nbsp;//&nbsp; three artifacts</span>
   </header>
   <figure class="work-media stack">
@@ -45,7 +45,7 @@ permalink: /portfolio/
     <img src="/img/portfolio/recognition-b.jpg" alt="screenshot: second artifact from the series on recognition" loading="lazy" />
     <img src="/img/portfolio/recognition-c.gif" alt="animation: third artifact from the series on recognition" loading="lazy" />
   </figure>
-  <p class="work-caption">from a series about recognition and algorithms, these pieces were inspired by sara ahmed's phenomenology of emotions like shame and love, which she understands as relational. i wanted to create objects for thinking with about how algorithmic recognition/understanding is actually not relational, but contingent, situational, and reliant on our socialization within sociolinguistic contexts where we are taught that text and images are produced by people.</p>
+  <p class="work-caption">From a series about recognition and algorithms, these pieces were inspired by Sara Ahmed's phenomenology of emotions like shame and love, which she understands as relational. I wanted to depict how algorithmic recognition/understanding is actually not relational, but contingent, situational, and reliant on our socialization within sociolinguistic contexts where we are taught that text and images are produced by people.</p>
 </article>
 
 <hr class="rule" />
@@ -53,13 +53,13 @@ permalink: /portfolio/
 <article class="work" id="w02">
   <header class="work-meta">
     <span class="work-tag">[spring 2026]</span>
-    <h2 class="work-title">displacement, los angeles</h2>
+    <h2 class="work-title">Displacement, Los Angeles</h2>
     <span class="work-medium">fabric · nectarine tree (prunus persica) · photograph</span>
   </header>
   <figure class="work-media">
     <img src="/img/portfolio/nectarine.jpg" alt="lengths of fabric hanging from the branches of a nectarine tree in a backyard" loading="lazy" />
   </figure>
-  <p class="work-caption">lately i'm interested in making art about diaspora, displacement, and memory. what does it mean for an object to be out of place, particularly if being in place exposes oneself to violence or precarity? these fabrics traveled long distances to hang from this nectarine tree — native to central asia — planted in los angeles.</p>
+  <p class="work-caption">Lately I'm interested in making art about diaspora, displacement, and memory. What does it mean for an object to be out of place, particularly if being in place exposes oneself to violence or precarity? These fabrics traveled long distances to hang from this nectarine tree — native to Central Asia — planted in Los Angeles.</p>
 </article>
 
 <hr class="rule" />
@@ -67,14 +67,14 @@ permalink: /portfolio/
 <article class="work" id="w03">
   <header class="work-meta">
     <span class="work-tag">[winter 2024]</span>
-    <h2 class="work-title">crude prosthetic</h2>
+    <h2 class="work-title">Crude prosthetic</h2>
     <span class="work-medium">sponge · wire · measuring scale · photograph &nbsp;//&nbsp; two views</span>
   </header>
   <figure class="work-media row-2">
     <img src="/img/portfolio/prosthetic-a.jpg" alt="first view of a prosthetic assembled from sponge, wire, and a measuring scale" loading="lazy" />
     <img src="/img/portfolio/prosthetic-b.jpg" alt="second view of the assembled prosthetic" loading="lazy" />
   </figure>
-  <p class="work-caption">there's a crudeness in how we use technology and digital spaces to modify our bodies.</p>
+  <p class="work-caption">There's a crudeness in how we use technology and digital spaces to modify our bodies.</p>
 </article>
 
 <hr class="rule" />
@@ -82,7 +82,7 @@ permalink: /portfolio/
 <article class="work" id="w04">
   <header class="work-meta">
     <span class="work-tag">[2025]</span>
-    <h2 class="work-title">two cakes</h2>
+    <h2 class="work-title">Two cakes</h2>
     <span class="work-medium">sugar · buttercream · photograph</span>
   </header>
   <figure class="work-media row-2">
@@ -96,7 +96,7 @@ permalink: /portfolio/
 <article class="work" id="w05">
   <header class="work-meta">
     <span class="work-tag">[spring 2022]</span>
-    <h2 class="work-title">for Medha</h2>
+    <h2 class="work-title">For Medha</h2>
     <span class="work-medium">3d print</span>
   </header>
   <figure class="work-media">
@@ -109,7 +109,7 @@ permalink: /portfolio/
 <article class="work" id="w06">
   <header class="work-meta">
     <span class="work-tag">[undated]</span>
-    <h2 class="work-title">assorted flowers, crocheted</h2>
+    <h2 class="work-title">Assorted flowers, crocheted</h2>
     <span class="work-medium">yarn · crochet &nbsp;//&nbsp; four pieces</span>
   </header>
   <figure class="work-media">
@@ -122,7 +122,7 @@ permalink: /portfolio/
       <img src="/img/portfolio/crochet-d.jpg" alt="a crocheted floral piece" loading="lazy" />
     </div>
   </figure>
-  <p class="work-caption">assorted crocheted pieces, variously playing on the theme of flowers.</p>
+  <p class="work-caption">Assorted crocheted pieces, variously playing on the theme of flowers.</p>
 </article>
 
 <hr class="rule" />
