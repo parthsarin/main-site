@@ -6,10 +6,15 @@ permalink: /portfolio/
 
 <p class="breadcrumb"><a href="/">../home</a> / portfolio</p>
 
+<figure class="portrait-stamp" aria-label="portrait">
+  <div class="stamp-frame">
+    <img src="/img/portfolio/workshop.jpg" alt="parth bent over a workbench in a green-walled workshop" loading="lazy" />
+  </div>
+  <figcaption>in the workshop, nov. 2025</figcaption>
+</figure>
+
 <h1 class="site-title">parth sarin</h1>
 <p class="site-subtitle">// portfolio, 2022 – 2026</p>
-
-<div class="ascii-divider" aria-hidden="true">================================================================================</div>
 
 <p class="about">i'm an artist working with fabric, wood, and algorithms. i like to make pieces to think with about diaspora and migration, violence and social movements, memory, and how technology reaches for intimacy it can't quite hold. my research sits near gender theory, surveillance studies, and decolonial scholarship — my art is considerably more clumsy.</p>
 
