@@ -56,4 +56,3 @@ I study questions about power and technology from perspectives informed by gende
   <div class="project-description"><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
 </div>
 
-<p class="see-also"><em>see also: <a href="/portfolio/">/portfolio</a> (art)</em></p>
