@@ -73,7 +73,7 @@ permalink: /portfolio/
   </header>
   <figure class="work-media row-2">
     <img src="/img/portfolio/box-a.jpg" alt="a small walnut box with a maple-paneled lid, closed, resting on a porch railing" loading="lazy" />
-    <img src="/img/portfolio/box-b.jpg" alt="the same walnut box opened on its brass hinges, revealing prints stored inside" loading="lazy" />
+    <img src="/img/portfolio/box-b.jpg" alt="the walnut box opened on its brass hinges in a garden bed, revealing prints stored inside" loading="lazy" />
   </figure>
 </article>
 
