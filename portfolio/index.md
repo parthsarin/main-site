@@ -25,10 +25,11 @@ permalink: /portfolio/
   <ol>
     <li><a href="#w01"><span class="toc-num">01.</span><span>On recognition</span></a></li>
     <li><a href="#w02"><span class="toc-num">02.</span><span>Displacement, Los Angeles</span></a></li>
-    <li><a href="#w03"><span class="toc-num">03.</span><span>Crude prosthetic</span></a></li>
-    <li><a href="#w04"><span class="toc-num">04.</span><span>Two cakes</span></a></li>
-    <li><a href="#w05"><span class="toc-num">05.</span><span>For Medha</span></a></li>
-    <li><a href="#w06"><span class="toc-num">06.</span><span>Assorted flowers, crocheted</span></a></li>
+    <li><a href="#w03"><span class="toc-num">03.</span><span>Walnut box</span></a></li>
+    <li><a href="#w04"><span class="toc-num">04.</span><span>Crude prosthetic</span></a></li>
+    <li><a href="#w05"><span class="toc-num">05.</span><span>Two cakes</span></a></li>
+    <li><a href="#w06"><span class="toc-num">06.</span><span>For Medha</span></a></li>
+    <li><a href="#w07"><span class="toc-num">07.</span><span>Assorted flowers, crocheted</span></a></li>
   </ol>
 </section>
 
@@ -66,6 +67,20 @@ permalink: /portfolio/
 
 <article class="work" id="w03">
   <header class="work-meta">
+    <span class="work-tag">[spring 2026]</span>
+    <h2 class="work-title">Walnut box</h2>
+    <span class="work-medium">walnut · maple &nbsp;//&nbsp; two views</span>
+  </header>
+  <figure class="work-media row-2">
+    <img src="/img/portfolio/box-a.jpg" alt="a small walnut box with a maple-paneled lid, closed, resting on a porch railing" loading="lazy" />
+    <img src="/img/portfolio/box-b.jpg" alt="the same walnut box opened on its brass hinges, revealing prints stored inside" loading="lazy" />
+  </figure>
+</article>
+
+<hr class="rule" />
+
+<article class="work" id="w04">
+  <header class="work-meta">
     <span class="work-tag">[winter 2024]</span>
     <h2 class="work-title">Crude prosthetic</h2>
     <span class="work-medium">sponge · wire · measuring scale · photograph &nbsp;//&nbsp; two views</span>
@@ -79,7 +94,7 @@ permalink: /portfolio/
 
 <hr class="rule" />
 
-<article class="work" id="w04">
+<article class="work" id="w05">
   <header class="work-meta">
     <span class="work-tag">[2025]</span>
     <h2 class="work-title">Two cakes</h2>
@@ -93,7 +108,7 @@ permalink: /portfolio/
 
 <hr class="rule" />
 
-<article class="work" id="w05">
+<article class="work" id="w06">
   <header class="work-meta">
     <span class="work-tag">[spring 2022]</span>
     <h2 class="work-title">For Medha</h2>
@@ -106,7 +121,7 @@ permalink: /portfolio/
 
 <hr class="rule" />
 
-<article class="work" id="w06">
+<article class="work" id="w07">
   <header class="work-meta">
     <span class="work-tag">[undated]</span>
     <h2 class="work-title">Assorted flowers, crocheted</h2>
