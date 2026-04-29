@@ -5,7 +5,7 @@ title: parth sarin
 
 # Hi, I'm Parth
 
-<p class="lede">I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, and therapy—and attempts to automate care work.</p>
+<p class="lede">I am a researcher, artist, and writer studying questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on attempts to automate care and the religious aspects of AI development.</p>
 
 <hr class="section-rule" />
 
@@ -13,15 +13,14 @@ title: parth sarin
   <div class="section-label">Roles</div>
   <div class="roles-content">
     <div>Research Associate · <a href="https://ed.stanford.edu/">Stanford Graduate School of Education</a></div>
-    <div>Researcher · <a href="https://www.cometadata.org/">COMET</a></div>
+    <div>Researcher / Organizer · Collaborative Metadata (<a href="https://www.cometadata.org/">COMET</a>)</div>
     <div>Research Affiliate · <a href="https://pkp.sfu.ca/">Public Knowledge Project</a></div>
-    <div>AI Practitioner in Residence · <a href="https://educ.ubc.ca/">UBC Faculty of Education</a></div>
     <div>AI Researcher · <a href="https://dataseer.ai/">DataSeer</a></div>
   </div>
 
   <div class="section-label">Previously</div>
   <div class="roles-content">
-    Fellow at <a href="https://digitaleducation.stanford.edu/">Stanford Digital Education</a> · Computing Education Research at <a href="https://cocolab.stanford.edu/">CoCoLab</a> · AI Literacy Research at <a href="https://distal.stanford.edu/">DISTAL Lab</a> · Tech &amp; Ethics Policy Fellow at the <a href="https://cset.georgetown.edu/">Center for Security and Emerging Technology</a> · Instructor for <a href="https://stanfordpython.com/">CS 41</a> at Stanford
+    AI Practitioner in Residence at the <a href="https://educ.ubc.ca/">UBC Faculty of Education</a> · Fellow at <a href="https://digitaleducation.stanford.edu/">Stanford Digital Education</a> · Computing Education Research at <a href="https://cocolab.stanford.edu/">CoCoLab</a> · AI Literacy Research at <a href="https://distal.stanford.edu/">DISTAL Lab</a> · Tech &amp; Ethics Policy Fellow at the <a href="https://cset.georgetown.edu/">Center for Security and Emerging Technology</a> · Instructor for <a href="https://stanfordpython.com/">CS 41</a> at Stanford
   </div>
 </div>
 
