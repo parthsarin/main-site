@@ -1,58 +1,85 @@
 ---
 layout: main.njk
-title: hi, i'm parth!
+title: parth sarin
 ---
 
-# hi, i'm parth! 👋🏽
+# Hi, I'm Parth
 
-<div id="roles">
+<p class="lede">I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, and therapy—and attempts to automate care work.</p>
 
-_Currently:_
+<hr class="section-rule" />
 
-- Research Associate @ [Stanford Graduate School of Education](https://ed.stanford.edu/)
-- Researcher @ [COMET](https://www.cometadata.org/)
-- Research Affiliate @ [Public Knowledge Project](https://pkp.sfu.ca/)
-- AI Practitioner in Residence @ [Faculty of Education, University of British Columbia](https://educ.ubc.ca/)
-- AI Researcher @ [DataSeer](https://dataseer.ai/)
+<div class="roles-grid">
+  <div class="section-label">Roles</div>
+  <div class="roles-content">
+    <div>Research Associate · <a href="https://ed.stanford.edu/">Stanford Graduate School of Education</a></div>
+    <div>Researcher · <a href="https://www.cometadata.org/">COMET</a></div>
+    <div>Research Affiliate · <a href="https://pkp.sfu.ca/">Public Knowledge Project</a></div>
+    <div>AI Practitioner in Residence · <a href="https://educ.ubc.ca/">UBC Faculty of Education</a></div>
+    <div>AI Researcher · <a href="https://dataseer.ai/">DataSeer</a></div>
+  </div>
 
-_Previously:_ Fellow @ [Stanford Digital Education](https://digitaleducation.stanford.edu/), Computing Education Research @ [CoCoLab](https://cocolab.stanford.edu/), AI Literacy Research @ [DISTAL Lab](https://distal.stanford.edu/), Tech & Ethics Policy Fellow @ the [Center for Security and Emerging Technology](https://cset.georgetown.edu/), Instructor for [CS 41](https://stanfordpython.com/) @ Stanford
-
-_Reach me at:_ psarin@stanford.edu
-
+  <div class="section-label">Previously</div>
+  <div class="roles-content">
+    Fellow at <a href="https://digitaleducation.stanford.edu/">Stanford Digital Education</a> · Computing Education Research at <a href="https://cocolab.stanford.edu/">CoCoLab</a> · AI Literacy Research at <a href="https://distal.stanford.edu/">DISTAL Lab</a> · Tech &amp; Ethics Policy Fellow at the <a href="https://cset.georgetown.edu/">Center for Security and Emerging Technology</a> · Instructor for <a href="https://stanfordpython.com/">CS 41</a> at Stanford
+  </div>
 </div>
 
-## 🧑🏽‍🏫 about me
+<hr class="section-rule" />
 
-I study questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on intimacy—including romantic relationships, friendships, and therapy—and attempts to automate care work.
+<div class="section-label work-heading">Work</div>
 
-## 🎨 projects
-
-<div class="projects-grid">
-  <div class="project-date">August 2025</div>
-  <div class="project-description">Hosted a workshop at <a href="https://www.lovewithrobots.com/">LSR 2025</a> about ethnography of human intimacy for/with LLMs</div>
-
-  <div class="project-date">July 2025</div>
-  <div class="project-description">Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></div>
-
-  <div class="project-date">June 2025</div>
-  <div class="project-description">Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</div>
-
-  <div class="project-date">May 2025</div>
-  <div class="project-description">Presented <a href="https://arxiv.org/abs/2505.15948">"Citation Parsing and Analysis with Language Models"</a> at the Workshop on Open Citations at the University of Bologna</div>
-
-  <div class="project-date">December 2024</div>
-  <div class="project-description">Presented <a href="https://docs.google.com/presentation/d/1tGDoOqURO37ce3MCqrokp-BLt23ml9oOw15YBQVudt0/edit?usp=sharing">"The Gender Threat: Right-Wing Imaginaries on Brazilian Twitter"</a> with Gabriel Poesia at the School of Advanced Study, University of London</div>
-
-  <div class="project-date">March 2024</div>
-  <div class="project-description">Published <a href="https://doi.org/10.1609/aaai.v38i21.30360">"Co-designing AI Education Curriculum with Cross-Disciplinary High School Teachers"</a> with many CRAFT collaborators</div>
-
-  <div class="project-date">March 2021</div>
-  <div class="project-description">Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</div>
-
-  <div class="project-date">2019 – 2023</div>
-  <div class="project-description">Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)</div>
-
-  <div class="project-date">2019</div>
-  <div class="project-description"><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</div>
+<div class="work-list">
+  <div class="work-row">
+    <span class="num">01</span>
+    <span class="date">Aug 2025</span>
+    <span class="desc">Hosted a workshop at <a href="https://www.lovewithrobots.com/">LSR 2025</a> about ethnography of human intimacy for/with LLMs</span>
+  </div>
+  <div class="work-row">
+    <span class="num">02</span>
+    <span class="date">Jul 2025</span>
+    <span class="desc">Started the <a href="https://ai-intimacy.stanford.edu/">AI Intimacy Project</a> (co-PI) with a grant from <a href="https://publichumanities.stanford.edu/research-grants/humanities-seed-grants/2025-grant-recipients">Stanford Public Humanities</a></span>
+  </div>
+  <div class="work-row">
+    <span class="num">03</span>
+    <span class="date">Jun 2025</span>
+    <span class="desc">Published <a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/17764">"Suspending Disbelief: The Algorithmic Theater of Student Computer Tracking Software"</a> with Laura Hill-Bonnet</span>
+  </div>
+  <div class="work-row">
+    <span class="num">04</span>
+    <span class="date">May 2025</span>
+    <span class="desc">Presented <a href="https://arxiv.org/abs/2505.15948">"Citation Parsing and Analysis with Language Models"</a> at the Workshop on Open Citations, University of Bologna</span>
+  </div>
+  <div class="work-row">
+    <span class="num">05</span>
+    <span class="date">Dec 2024</span>
+    <span class="desc">Presented <a href="https://docs.google.com/presentation/d/1tGDoOqURO37ce3MCqrokp-BLt23ml9oOw15YBQVudt0/edit?usp=sharing">"The Gender Threat: Right-Wing Imaginaries on Brazilian Twitter"</a> with Gabriel Poesia at the School of Advanced Study, University of London</span>
+  </div>
+  <div class="work-row">
+    <span class="num">06</span>
+    <span class="date">Mar 2024</span>
+    <span class="desc">Published <a href="https://doi.org/10.1609/aaai.v38i21.30360">"Co-designing AI Education Curriculum with Cross-Disciplinary High School Teachers"</a> with many CRAFT collaborators</span>
+  </div>
+  <div class="work-row">
+    <span class="num">07</span>
+    <span class="date">Mar 2021</span>
+    <span class="desc">Helped start the <a href="https://craft.stanford.edu/">CRAFT project</a> and worked with teachers to build resources to teach about AI</span>
+  </div>
+  <div class="work-row">
+    <span class="num">08</span>
+    <span class="date">2019–23</span>
+    <span class="desc">Taught CS 41 with two lovely co-instructors—Tara Jones (2022–2023) and <a href="https://michaeljohncooper.com/">Michael Cooper</a> (2019–2021)</span>
+  </div>
+  <div class="work-row">
+    <span class="num">09</span>
+    <span class="date">2019</span>
+    <span class="desc"><a href="/projects/gibberish">gibberish</a> displays idioms in languages that reference another language as "gibberish" (e.g. "That's Greek to me")</span>
+  </div>
 </div>
 
+<hr class="section-rule" />
+
+<div class="roles-grid">
+  <div class="section-label">Write</div>
+  <div class="roles-content email"><a href="mailto:psarin@stanford.edu">psarin@stanford.edu</a></div>
+</div>

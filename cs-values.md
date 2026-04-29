@@ -7,6 +7,29 @@ title: "Identity & Values in CS Ed"
 <style>
 body {
     background-color: #477c9b !important;
+    color: #fff !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+}
+.container { padding: 3rem 2rem 6rem !important; }
+h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-weight: 600 !important;
+    text-transform: none !important;
+    letter-spacing: -0.01em !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+}
+h1 { font-size: 2.4rem !important; margin: 0 0 0.5rem 0 !important; }
+h2 { font-size: 1.6rem !important; margin: 2.5rem 0 1rem 0 !important; }
+h3 { font-size: 1.2rem !important; font-weight: 500 !important; margin: 1rem 0 !important; }
+p, li { font-size: 1.0625rem !important; line-height: 1.7 !important; }
+a, a:visited {
+    color: #ffd966 !important;
+    text-decoration-color: #ffd966 !important;
+}
+a:hover {
+    color: #fff !important;
+    text-decoration-color: #fff !important;
 }
 </style>
 
