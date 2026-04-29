@@ -45,6 +45,15 @@ h1 {
   line-height: 1;
   letter-spacing: -0.02em;
   text-transform: uppercase;
+  margin: 0 0 0.6rem 0;
+}
+
+.location {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
   margin: 0 0 2rem 0;
 }
 

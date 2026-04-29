@@ -5,6 +5,8 @@ title: parth sarin
 
 # Hi, I'm Parth
 
+<p class="location">Writing from Oakland, CA</p>
+
 <p class="lede">I am a researcher, artist, and writer studying questions about power and technology from perspectives informed by gender theory, surveillance studies, and decolonial scholarship and activism. My recent work has focused on attempts to automate care and the religious aspects of AI development.</p>
 
 <hr class="section-rule" />
@@ -79,6 +81,6 @@ title: parth sarin
 <hr class="section-rule" />
 
 <div class="roles-grid">
-  <div class="section-label">Write</div>
+  <div class="section-label">Contact</div>
   <div class="roles-content email"><a href="mailto:psarin@stanford.edu">psarin@stanford.edu</a></div>
 </div>
