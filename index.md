@@ -33,7 +33,7 @@ title: parth sarin
 <div class="work-list">
   <div class="work-row">
     <span class="num">01</span>
-    <span class="date">April 2026</span>
+    <span class="date">Apr 2026</span>
     <span class="desc">Started the <a href="https://good-faith-tech.stanford.edu/">Good Faith Tech?</a> project with a seed grant from the <a href="https://hai.stanford.edu/research/grant-programs/seed-research-grants?section=2025-recipients">Stanford Institute for Human-Centered AI</a></span>
   </div>
   <div class="work-row">
